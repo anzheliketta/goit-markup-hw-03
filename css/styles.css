@@ -1,6 +1,5 @@
 * {
   box-sizing: border-box;
-  max-width: 1440px;
 }
 h1,h2,h3,h4,h5,h6,p {
   margin: 0;
@@ -255,7 +254,6 @@ ol {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    margin-bottom: 32px;
   }
 
   .team-list {
@@ -306,7 +304,7 @@ ol {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  text-align: center;
+  text-align: left;
   text-transform: capitalize;
 }
 .portfolio-subtitle {
@@ -316,7 +314,6 @@ ol {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  padding-top: 32px;
   margin-bottom: 8px;
 }
 .portfolio-item-text {
@@ -326,8 +323,8 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  padding-bottom: 32px;
 }
+
 .portfolio-item,
 .portfolio-item-text {
   font-family: "Roboto", sans-serif;
@@ -336,7 +333,7 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  text-align: center;
+  text-align: left;
 }
 
 /* footer */
